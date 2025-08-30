@@ -27,5 +27,4 @@ public class CourierPayoutCalculationServiceHttpImpl
             throw new BadGatewayException(e);
         }
     }
-
 }
